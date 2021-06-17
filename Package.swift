@@ -29,7 +29,7 @@ let package = Package(
         .binaryTarget(
             name: "RepeatoRender",
             url: "https://github.com/stoefln/RepeatoCapture/raw/main/RepeatoRender.zip",
-            checksum: "1b06215bb101321874e4a705644aa1e1e59f9a6f91efa3b51a5860b72208fe0f"
+            checksum: "6cd4933102f66fdb3e8fde89fcb1e5baf679567d092f80ecf0b014e1af76e7ce"
         ),
     ]
 )
