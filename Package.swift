@@ -28,7 +28,7 @@ let package = Package(
                                 to: "\"\(hostname)\"")]),
         .binaryTarget(
             name: "RepeatoRender",
-            url: "https://github.com/stoefln/RepeatoCapture/raw/87e8c4572750e7050e447d0e8abe6b8a9b50d207/RepeatoRender.zip"
+            url: "https://github.com/stoefln/RepeatoCapture/raw/87e8c4572750e7050e447d0e8abe6b8a9b50d207/RepeatoRender.zip",
             checksum: "6cd4933102f66fdb3e8fde89fcb1e5baf679567d092f80ecf0b014e1af76e7ce"
         ),
     ]
