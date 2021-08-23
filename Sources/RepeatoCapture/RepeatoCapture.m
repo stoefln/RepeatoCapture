@@ -12,4 +12,6 @@
 }
 @end
 #endif
+#else
+#error "Do not include RepeatoCapture in a release build."
 #endif
