@@ -1,3 +1,4 @@
+#ifdef DEBUG
 @import RepeatoRender;
 
 #ifdef DEVELOPER_HOST
@@ -10,4 +11,5 @@
 #endif
 }
 @end
+#endif
 #endif
