@@ -1,3 +1,4 @@
+#ifdef DEBUG
 @import RepeatoRender;
 
 #ifdef DEVELOPER_HOST
@@ -10,4 +11,7 @@
 #endif
 }
 @end
+#endif
+#else
+#error "Do not include RepeatoCapture in a release build."
 #endif
