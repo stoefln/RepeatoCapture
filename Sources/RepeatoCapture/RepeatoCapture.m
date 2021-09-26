@@ -1,4 +1,4 @@
-#ifdef DEBUG
+#if DEBUG || TARGET_IPHONE_SIMULATOR
 @import RepeatoRender;
 
 #ifdef DEVELOPER_HOST
